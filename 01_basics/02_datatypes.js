@@ -24,6 +24,8 @@ let value = null //null -standalone value
 // object 
 
 console.log(typeof "hie") //string
+// OR console.log(typeof("hie"))
+
 console.log(typeof age) //number
-console.log(typeof null) //asked in interviews..type of null is object
+console.log(typeof(null)) //asked in interviews..type of null is object
 console.log(typeof undefined) //undefined
