@@ -21,7 +21,7 @@ console.log(typeof(valueInNumber3))
 console.log(valueInNumber3)
 
 // values and their conversion into numbers 
-// "33"=>33
+// "33"=>33 
 // "33abc"=>NaN 
 // true=>1
 // false=>0
@@ -39,9 +39,9 @@ let booleanIsLoggedIn3 = Boolean(isLoggedIn3)
 console.log(booleanIsLoggedIn3)
 
 // values and their conversion into Boolean
-1 => true 0 => false
-"" => false
-"dede" => true
+// 1 => true 0 => false
+// "" => false
+// "dede" => true
 
 let someNumber = 33
 
